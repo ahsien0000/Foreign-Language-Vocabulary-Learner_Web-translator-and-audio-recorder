@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Web-translator
+index_00.jsp:
+Input vocabularies separated by comma(,), the program would return translated words right after the original vacabularies.
 
-You can use the [editor on GitHub](https://github.com/ahsien0000/Foreign-Language-Vocabulary-Learner_Web-translator-and-audio-recorder/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Audio-recorder
+index.jsp:
+Based on Chris Wilson's web audio work and Apache license from Apache.org, merged the audio recorder with our web-translator, and allow users to make records while the web program is translating/reading all the vocabularies.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### References
 
-### Markdown
+1. W3C Web Audio API [Web Audio API](https://dvcs.w3.org/hg/audio/raw-file/tip/webaudio/specification.html). 
+2. Chris Wilson, [Web Audio Demos](http://webaudiodemos.appspot.com/AudioRecorder/index.html).
+3. www.apache.org, [Under the Apache License](http://www.apache.org/licenses/LICENSE-2.0)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Support or contacts
+Please contact [contact support](chunghc3@uci.edu), and we’ll help you sort it out.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahsien0000/Foreign-Language-Vocabulary-Learner_Web-translator-and-audio-recorder/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
